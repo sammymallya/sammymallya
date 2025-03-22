@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samrudh Mallya 
+# 👋 Hi, I'm Samrudh Mallya :  ![](https://komarev.com/ghpvc/?username=sammymallya&color=orange&style=for-the-badge&base=5)
 ### 💻  AI/ML Enthusiast | DSA Practicioner
 
 🚀 Engineering senior at NMAMIT, nitte fascinated by **data, AI/ML . Passionate about developer experience, product thinking, and intelligent systems.

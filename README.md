@@ -19,5 +19,5 @@ Thanks for visiting! ✨ Let's build something awesome together.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sammymallya&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sammymallya&theme=dark&hide_border=true" width="400">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=sammymallya&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>

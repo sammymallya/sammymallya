@@ -5,7 +5,7 @@
 
 ### ⚡ Tech Snapshot
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,r,html,css,js,c,java,tailwind,react,git,ts" />
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,js,c,java,tailwind,react,git,ts,notion,github,postman" />
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,materialui,django,flask,fastapi,nodejs,sklearn,pytorch,aws,docker,terraform,githubactions,jest,cypress" />
 </p> -->

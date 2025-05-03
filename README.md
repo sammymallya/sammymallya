@@ -10,7 +10,7 @@ how# 👋 Hi, I'm Samrudh Mallya :  ![](https://komarev.com/ghpvc/?username=samm
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,materialui,django,flask,fastapi,nodejs,sklearn,pytorch,aws,docker,terraform,githubactions,jest,cypress" />
 </p> -->
 
-[![Samrudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sammymallya&theme=merko)](https://github.com/sammymallya/github-readme-activity-graph)
+[![Samrudh's github activity graph](https://github-readme-activity-graph-silk.vercel.app/graph?username=sammymallya&theme=merko)](https://github.com/sammymallya/github-readme-activity-graph)
 
 
 

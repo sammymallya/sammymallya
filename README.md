@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samrudh Mallya :  ![](https://komarev.com/ghpvc/?username=sammymallya&color=orange&style=for-the-badge&base=5)
+how# 👋 Hi, I'm Samrudh Mallya :  ![](https://komarev.com/ghpvc/?username=sammymallya&color=orange&style=for-the-badge&base=5)
 ### 💻  AI/ML Enthusiast | DSA Practicioner
 
 🚀 Engineering senior at NMAMIT, nitte fascinated by **data, AI/ML . Passionate about developer experience, product thinking, and intelligent systems.
@@ -9,6 +9,8 @@
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,materialui,django,flask,fastapi,nodejs,sklearn,pytorch,aws,docker,terraform,githubactions,jest,cypress" />
 </p> -->
+
+[![Samrudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sammymallya&theme=merko)](https://github.com/sammymallya/github-readme-activity-graph)
 
 
 
